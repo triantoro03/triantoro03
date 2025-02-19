@@ -3,7 +3,7 @@
  - 🏫 I'm also study at dibimbing's Data Science Bootcamp
  - 👀 I’m interested in **Data Science & Analytics**
  - 🌱 I’m currently trying to expand my skills in machine learning models, coding, and data visualization
- - 📫 You can contact me on email: triantorosetyawanp@gmail.com, triantoro.setyawan@sci.ui.ac.id
+ - 📫 You can contact me on email: triantorosetyawanp@gmail.com
 
 
 <!---
